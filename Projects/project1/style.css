@@ -1,0 +1,20 @@
+.button{
+    border: 1px solid black;
+    margin: 3px;
+    padding: 23px;
+}
+#grey{
+    background-color: hsla(37, 9%, 18%, 0.292);
+}
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+#purple{
+    background-color: purple;
+}
