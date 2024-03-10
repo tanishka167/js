@@ -1,0 +1,24 @@
+*{
+    background-color: rgba(181, 157, 129);
+    text-align: center;
+}
+
+div{
+    margin: 85px;
+}
+form{
+    text-align: center;
+    margin: 65px;
+    border: 4px solid black;
+}
+button{
+    color: white;
+    background-color: black;
+    width: 125px;
+    height: 50px;
+    padding: 2px;
+}
+#results{
+    color: brown;
+    font-size: 21px;
+}
